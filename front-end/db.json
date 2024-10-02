@@ -1,0 +1,124 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "content": "HTML is easy",
+      "important": false
+    },
+    {
+      "id": "2",
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "id": "3",
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": true
+    },
+    {
+      "id": "bf14",
+      "content": "a new note...",
+      "important": true
+    },
+    {
+      "id": "691b",
+      "content": "Hello",
+      "important": false
+    },
+    {
+      "id": "f280",
+      "content": "a new note...",
+      "important": false
+    },
+    {
+      "id": "9d72",
+      "content": "How are you?.",
+      "important": false
+    },
+    {
+      "id": "a3df",
+      "content": "a new note...",
+      "important": false
+    },
+    {
+      "id": "3ec3",
+      "content": "Hello Sathurshan",
+      "important": false
+    },
+    {
+      "id": "f097",
+      "content": "How are you buddy",
+      "important": true
+    },
+    {
+      "id": "37b0",
+      "content": "Does",
+      "important": false
+    },
+    {
+      "id": "c792",
+      "content": "a new note...Hi",
+      "important": true
+    },
+    {
+      "id": "8eaf",
+      "content": "giii",
+      "important": true
+    },
+    {
+      "id": "c856",
+      "content": "giii",
+      "important": false
+    },
+    {
+      "id": "50e3",
+      "content": "giii",
+      "important": false
+    },
+    {
+      "id": "556e",
+      "content": "a new note...",
+      "important": true
+    },
+    {
+      "id": "9689",
+      "content": "dsafasdf",
+      "important": true
+    },
+    {
+      "id": "3ab4",
+      "content": "a new note...",
+      "important": true
+    },
+    {
+      "id": "546e",
+      "content": "a new note...",
+      "important": true
+    },
+    {
+      "id": "aca7",
+      "content": "a new note...",
+      "important": false
+    },
+    {
+      "id": "8ee8",
+      "content": "This is a new note",
+      "important": false
+    },
+    {
+      "id": "4724",
+      "content": "a new note...",
+      "important": false
+    },
+    {
+      "id": "033e",
+      "content": "a new note...sdsdsdsd",
+      "important": true
+    },
+    {
+      "id": "f215",
+      "content": "a new note...ddsf",
+      "important": true
+    }
+  ]
+}
